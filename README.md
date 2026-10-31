@@ -1,5 +1,6 @@
-## Hi there 👋
-<!-- Cabeçalhos -->
+## Sejam Bem-Vindos, Erick Pierre aqui!
+
+![Trabalhando feito cão](https://i.pinimg.com/originals/aa/34/53/aa3453148c272ad6fd9950fe4344ed47.gif)
 
  
 
