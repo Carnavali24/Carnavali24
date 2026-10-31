@@ -1,8 +1,12 @@
 ## Sejam Bem-Vindos, Erick Pierre aqui!
 
-![Trabalhando feito cão](https://i.pinimg.com/originals/aa/34/53/aa3453148c272ad6fd9950fe4344ed47.gif)
+![Working](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif))
+------------------------------------------
 
- 
+✨ Olá, me chamo Erick Pierre!
+🌟 Sou estudante de Bacharelado de Tecnologia da Informação na UNIVESP, atualmente cursando o 5 semestre!
+
+
 
 <!--
 **Carnavali24/Carnavali24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
