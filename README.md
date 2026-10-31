@@ -6,7 +6,7 @@
 
 ✨ Olá, me chamo Erick Pierre!
 
-🌟 Sou estudante de Bacharelado de Tecnologia da Informação na UNIVESP, atualmente cursando o 5 semestre!
+🌟 Estudante do curso de Bacharelado de Tecnologia da Informação na UNIVESP, atualmente no 5 semestre!
 
 📫 Pode me encontrar no [Linkedin!](https://www.linkedin.com/in/erick-pierre-carnavali-a3960937a/)
 
